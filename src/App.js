@@ -35,11 +35,6 @@ function App() {
           </Card>
         </Col>
       </Row>
-      <div class='square-box'>
-    <div class='square-content'>
-        <h3>test</h3>
-    </div>
-</div>
     </Container>
   );
 }
